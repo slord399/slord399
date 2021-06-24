@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+<img width="300px" height="300px" src="https://github.com/slord399/slord399/blob/main/profile.png" align="center"/>
 <p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://github.com/slord399/slord399/blob/main/profile.png"" /></p>
 <p><strong>=Introductions=</strong></p>
 <p>Hi there, Tony_Lewis here.</p>
