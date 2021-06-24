@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img width="300px" height="300px" src="https://github.com/slord399/slord399/blob/main/profile.png" align="center"/>
 <p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://github.com/slord399/slord399/blob/main/profile.png"" /></p>
 <p><strong>=Introductions=</strong></p>
 <p>Hi there, Tony_Lewis here.</p>
@@ -40,4 +39,4 @@ Here are some ideas to get you started:
 <p>Twitterの方は主に日本語ですがVRChatの非公式障害情報やアップデート情報を投稿していたりします。</p>
 <p>&nbsp;</p>
 <p>discord: Tony_Lewis#1234 (<a class="anchor-3Z-8Bb anchorUnderlineOnHover-2ESHQB" tabindex="0" title="https://discord.gg/B6SRMag" role="button" href="https://discord.gg/B6SRMag" target="_blank" rel="noreferrer noopener">https://discord.gg/B6SRMag</a>)</p>
-<p>Twitter: @slord399</p>
+<p>Twitter: @slord399 (https://twitter.com/slord399)</p>
