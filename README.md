@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-<p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://github.com/slord399/slord399/blob/main/profile.png?raw=true" alt="" /></p>
+<p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://github.com/slord399/slord399/blob/main/profile.png"" /></p>
 <p><strong>=Introductions=</strong></p>
 <p>Hi there, Tony_Lewis here.</p>
 <p>I'm mainly hopping around VRChat communities&nbsp;helping people resolve issue or doing debug on behalf.</p>
