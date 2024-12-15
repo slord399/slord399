@@ -33,25 +33,21 @@ Here are some ideas to get you started:
 <p>&nbsp;</p>
 <p>リアルだとフィールドエンジニアとして顧客のシステムの保守管理や自社サーバーやシステムの運用などを行っております。流石に最近は静かになりましたが今も人助けを続ける日常です。</p>
 <p>&nbsp;</p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=slord399" alt="slord399" /></a> </p>
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=slord399&show_icons=true&locale=en" alt="slord399" style="display:inline-block; margin:0;"/>
-</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=slord399&label=Profile%20views&color=0e75b6&style=flat" alt="slord399" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=slord399" alt="slord399" /></a> </p>
-
-  <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=slord399&" alt="slord399" style="display:inline-block; margin:0;"/>
 </div>
 
-<p align="left"> <a href="https://twitter.com/slord399" target="blank"><img src="https://img.shields.io/twitter/follow/slord399?logo=twitter&style=for-the-badge" alt="slord399" /></a> </p>
+
 
 - 💬 Ask me about **VRChat**.
 
 - ⚡ Fun fact **You may see me somewhere at once around VRChat.**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3><p align="left"> <img src="https://komarev.com/ghpvc/?username=slord399&label=Profile%20views&color=0e75b6&style=flat" alt="slord399" /> </p>
+
 <p align="left">
 <a href="https://twitter.com/slord399" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="slord399" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/slord399" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="slord399" height="30" width="40" /></a>
