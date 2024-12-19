@@ -17,7 +17,7 @@ Here are some ideas to get you started:
     <img src="https://raw.githubusercontent.com/slord399/slord399/main/profile.png" />
 </div>
 
-<h1 align="center">Hi 👋, I'm Tony_Lewis</h1>
+<h1 align="center">Hi 👋, I'm Tony_Lewis.</h1>
 <h3 align="center">Working around VRChat communities from England</h3>
 
 <p>I'm mainly hopping around VRChat communities&nbsp;helping people resolve issue or doing debug on behalf.</p>
