@@ -61,6 +61,9 @@ Here are some ideas to get you started:
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.patreon.com/tony_lewis"> <img align="left" src="https://d3.harvard.edu/platform-digit/wp-content/uploads/sites/2/2021/03/patreon_logo-800x200.png" height="50" width="210" alt="test" /></a></p><br><br>
+<h3 align="left"></h3>
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O5O218SJ0R)
 
 
 
